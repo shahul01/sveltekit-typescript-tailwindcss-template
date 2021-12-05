@@ -3,10 +3,10 @@
 
 </script>
 
-<!-- <input type="checkbox" name="" id=""> -->
 <main>
   <slot />
 </main>
 
-<style>
+<style lang="postcss">
+
 </style>
