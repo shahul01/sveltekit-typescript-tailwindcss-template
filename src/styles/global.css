@@ -19,3 +19,9 @@ body {
   @apply text-white;
   @apply cursor-pointer select-none;
 }
+
+@layer components {
+  .flex-center-center {
+    @apply flex justify-center items-center;
+  }
+}
