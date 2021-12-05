@@ -57,7 +57,7 @@
   }
 
   .title-container {
-    @apply flex-center-center;
+    @apply flex justify-center items-center;
     @apply my-6;
     @apply font-bold;
     @apply text-4xl;

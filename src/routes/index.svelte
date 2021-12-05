@@ -2,7 +2,7 @@
 
 </script>
 
-<div class="my-container flex justify-center items-center">
+<div class="my-container custom-global-class">
   <p class="m-4 p-2 font-bold">
     Hello world
 

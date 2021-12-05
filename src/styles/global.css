@@ -1,7 +1,4 @@
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "./customTailwind.css";
 
 html, body {
   margin: 0;
@@ -18,10 +15,4 @@ body {
   @apply rounded-xl;
   @apply text-white;
   @apply cursor-pointer select-none;
-}
-
-@layer components {
-  .flex-center-center {
-    @apply flex justify-center items-center;
-  }
 }
